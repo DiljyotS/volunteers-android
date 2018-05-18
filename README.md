@@ -105,4 +105,4 @@ Systers Community
 
 ## License
 
-This project is under GPL-2.0 license .
+This project is under GPL-2.0 license 
