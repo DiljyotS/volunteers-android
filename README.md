@@ -2,13 +2,23 @@
 # Volunteers-Android
 
 ## Introduction
+ 
+  Volunteers (VOLA) is an app intended for the Systers community. With it, Systers members can search for nearby events and volunteering   opportunities.
 
-Volunteers Android  is a mobile application which helps to manage the Volunteers at an event. We want to provide Systers’s affinity groups a method of collaborating, organizing, and promoting their individual events (i.e. meetups, local workshops, etc). Systers can register, login, and volunteer for events in their local city.
+
+Volunteers Android  is a mobile application which helps to manage the Volunteers at an event. We want to provide Systers’s affinity groups a method of collaborating, organizing, and promoting their individual events (i.e. meetups, local workshops, etc). Systers can  
+1)register
+2)login
+3)and volunteer for events in their local city.
 
 
 Learn more about the Systers organisation and it's open source development team [here](http://anitaborg.org/get-involved/systers/).
 
 Join the mailing list [here](http://systers.org/mailman/listinfo/systers). Join our slack group(systers-opensource) or to get an invitation [click here](http://systers.io/slack-systers-opensource/).
+
+## Motivation
+
+Our Main aim is to guide everyone about events by Systers community . so we think to make a mobile application which help everyone.
 
 ## Screenshot
 
@@ -84,3 +94,15 @@ Now that you have cloned the repo:
 If there are any problems encountered when installing the IDE, you may want to check and make sure you have a JDK and JRE installed. If you experience trouble building or running the project, you may not have the necessary build tools, which you can download directly through the IDE. If the app does not run on the emulator, it may be that the emulator is too slow, and you should look into installing one from an outside source.
 
 If there are any other questions or concerns, you can join #vola channel in our slack group.
+
+## Contribute
+
+Let people know how they can contribute into your project. A contributing guideline will be a big plus.
+
+## Credits
+
+Systers Community
+
+## License
+
+This project is under GPL-2.0 license .
